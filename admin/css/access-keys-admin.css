@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.access_keys_list {
+    text-align: center;
+}
+.access_keys_list th, .access_keys_list td  {
+    text-align: center;
+    vertical-align: middle;
+}
+.copy_btn {
+    display: inline-block;
+    margin-top: 10px;
+    cursor: pointer;
+    background: #d4d4d4;
+    padding: 3px 7px;
+    border-radius: 5px;
+}
